@@ -1,5 +1,5 @@
     var score = 95;
-    score = parseInt(95/10);
+    score = parseInt(score/10);
     switch(score){
       case 10:
       case 9: //因为10时没有break，所以会执行9的case
